@@ -1,6 +1,6 @@
 # React Practice Projects
 
-<ol>
+<ul>
   <li/>Login Form built with React_Bootstrap <br/>
   <li/>Using components with React <br/>
-</ol>
+</ul>
